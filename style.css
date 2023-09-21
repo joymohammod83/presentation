@@ -1,0 +1,38 @@
+*{
+    height: opx;
+    width: opx;
+}
+
+
+
+
+.shakib {
+border: 1px solid rgb(149, 151, 147);
+    border-radius: 4px;
+    height: 330px;
+    width: 330px;
+    padding: 20px; 
+    background-color: beige; 
+}
+
+h1 {
+    background-color: rgb(222, 243, 243);
+    border: 2px;
+    border-radius: 3px;
+    text-align: center;
+    box-shadow: 2px 2px 2px 2px rgb(25, 26, 25);
+}
+.bdcric{
+    
+}
+#shak {
+
+    height: 160px;
+    width: 400px;
+    padding-right: 200px;
+
+
+}
+#sh{
+    text-align: center;
+}
